@@ -25,14 +25,9 @@ This project is part of **BuildML** and serves as:
 
 ## Current Stage
 
-**Stage 0 — Foundation**
+**Stage 0 — V0 Baseline (Locked)**
 
-Currently setting up:
-
-- Project architecture
-- Development environment
-- Git repository
-- Learning system
-- Research framework
-
-More documentation will be added as the project evolves.
+The V0 frontend baseline is approved and locked:
+- Documented in [docs/v0-baseline.md](file:///f:/Operation_2k29/09_Operation_2029/BuildML/01_Projects/Emotional_Environment/docs/v0-baseline.md).
+- Visual environment: Immersive rainy mountain evening targeting *sukoon*.
+- Architecture: Client-side Next.js + React + TypeScript + Tailwind with CSS atmospheric rendering.
